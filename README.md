@@ -1,5 +1,5 @@
 # Coupled-React-and-Drupal-Guide
-Complete Guide to get started with Coupled React and Drupal
+Complete Guide to get started with Coupled React and Drupal Web Application.
 
 
 In order to develop frontend of drupal site using reactjs as coupled system.
